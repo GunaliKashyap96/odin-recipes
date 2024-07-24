@@ -37,3 +37,10 @@ The main page includes links to individual recipe pages, along with a charming a
 - Enhance the design with additional styling and images
 
 This project demonstrates basic HTML structure, linking between pages, and simple CSS styling techniques learned through The Odin Project curriculum.
+## Live Demo
+
+Check out the live demo of the Odin Recipes project:
+
+[View Demo](https://your-vercel-url-here.vercel.app)
+
+Feel free to explore the recipes and enjoy the Studio Ghibli-inspired culinary journey!
