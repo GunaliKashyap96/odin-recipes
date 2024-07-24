@@ -41,6 +41,6 @@ This project demonstrates basic HTML structure, linking between pages, and simpl
 
 Check out the live demo of the Odin Recipes project:
 
-[View Demo](https://your-vercel-url-here.vercel.app)
+[View Demo](https://odin-recipes-beryl.vercel.app/)
 
 Feel free to explore the recipes and enjoy the Studio Ghibli-inspired culinary journey!
